@@ -1,0 +1,14 @@
+Install cmatrix on termux
+
+'  apt update
+   apt upgrade
+   apt install cmatrix '
+
+
+Then type this command
+
+& cmtrix
+
+To start matrix
+
+Tnak you 
