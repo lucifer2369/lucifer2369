@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer2369&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer2369" /> </p>
 
-- 🌱 I’m currently learning **ethical hacking , AUTOCAD**
+- 🌱 I’m currently learning **coding , AUTOCAD**
 
 - 📫 How to reach me **newlucifer02@gmail.com**
 
